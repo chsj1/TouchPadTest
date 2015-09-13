@@ -1,0 +1,19 @@
+
+touchpad.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ipan
+  rotate: false
+  xy: 2, 2
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+ibtn
+  rotate: false
+  xy: 2, 255
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
